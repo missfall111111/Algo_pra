@@ -5,8 +5,12 @@
 #include<array>
 using namespace std;
 
-const int MAXN=10000;
-array<int,2> arr[MAXN];
+//描述
+//每一个线段都有start和end两个数据项，表示这条线段在X轴上从start位置开始到end位置结束。
+//给定一批线段，求所有重合区域中最多重合了几个线段，首尾相接的线段不算重合。
+//
+//const int MAXN=10000;
+//array<int,2> arr[MAXN];
 int n;
 
 int MaxCover(){

@@ -17,3 +17,5 @@
 
 # STL
 在c/c++里,堆是proiroty_queue。，默认是大根堆
+
+注意c/c++里面的什么比较器，lambda匿名函数的编写

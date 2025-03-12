@@ -1,5 +1,6 @@
 #include<iostream>
 
+// 用异或运算交换两数的值
 using namespace std;
 
 

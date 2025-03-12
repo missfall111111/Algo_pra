@@ -13,6 +13,7 @@ struct Comparator{
 		return a->val>b->val;
 	}
 };
+//合并 k 个升序的链表并将结果作为一个升序的链表返回其头节点。
 class Solution {
 	public:
 		/**
